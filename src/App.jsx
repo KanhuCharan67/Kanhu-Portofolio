@@ -6,7 +6,7 @@ function App() {
       <nav className="nav shell" aria-label="Main navigation">
         <div className="profile-sidebar">
           <span className="profile-photo">
-            <img src="/profile-photo.jpeg" alt="Kanhu Charan Barad" onError={(event) => { event.currentTarget.style.display = 'none' }} />
+            <img src="./profile-photo.jpeg" alt="Kanhu Charan Barad" onError={(event) => { event.currentTarget.style.display = 'none' }} />
             <span className="profile-initials">KCB</span>
           </span>
           <span className="profile-details"><strong>Kanhu Charan Barad</strong><small>Java Backend Developer</small><small>Bengaluru, Karnataka</small></span>
@@ -15,7 +15,7 @@ function App() {
         <a className="status" href="mailto:kanhubarad74@gmail.com"><span className="status-dot" /> Hire me</a>
       </nav>
 
-      <section className="hero shell" id="top"><div className="hero-copy"><p className="eyebrow"><span>Hello!</span> Java Backend Developer / Bengaluru</p><h1>I am <em>Kanhu</em><br />Charan Barad</h1><p className="intro">I am a Java Backend Developer with 3+ years of experience building scalable APIs, microservices, event-driven systems, and AI-powered applications.</p><div className="hero-actions"><a className="button button-primary" href="#systems">See my portfolio <span>↗</span></a><a className="text-link" href="#contact">Let's connect <span>↗</span></a></div></div><div className="hero-aside"><span className="hero-photo"><img src="/profile-photo.jpeg" alt="Kanhu Charan Barad" onError={(event) => { event.currentTarget.style.display = 'none' }} /><span className="hero-photo-fallback">KCB</span></span><div className="hero-note"><span>Currently building</span><strong>Reliable systems<br />with a human edge.</strong></div></div></section>
+      <section className="hero shell" id="top"><div className="hero-copy"><p className="eyebrow"><span>Hello!</span> Java Backend Developer / Bengaluru</p><h1>I am <em>Kanhu</em><br />Charan Barad</h1><p className="intro">I am a Java Backend Developer with 3+ years of experience building scalable APIs, microservices, event-driven systems, and AI-powered applications.</p><div className="hero-actions"><a className="button button-primary" href="#systems">See my portfolio <span>↗</span></a><a className="text-link" href="#contact">Let's connect <span>↗</span></a></div></div><div className="hero-aside"><span className="hero-photo"><img src="./profile-photo.jpeg" alt="Kanhu Charan Barad" onError={(event) => { event.currentTarget.style.display = 'none' }} /><span className="hero-photo-fallback">KCB</span></span><div className="hero-note"><span>Currently building</span><strong>Reliable systems<br />with a human edge.</strong></div></div></section>
 
       <section className="signal-bar"><div className="shell signal-grid"><div><strong>3+</strong><span>years shipping<br />production software</span></div><div><strong>150<span>+</span></strong><span>DSA problems<br />solved</span></div><div><strong>01</strong><span>Rising Star<br />Award</span></div><div className="signal-quote">“Make it work.<br /><em>Then make it last.</em>”</div></div></section>
 
