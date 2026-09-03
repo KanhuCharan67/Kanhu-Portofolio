@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210" role="img" aria-labelledby="title desc">
+  <title id="title">Hutech Solutions</title>
+  <desc id="desc">Hutech Solutions company logo</desc>
+  <rect width="520" height="210" fill="#ffffff"/>
+  <path fill="#0d68a7" d="M0 45h62v45h57V45h62v120h-62v-45H62v45H0z"/>
+  <path fill="#f5aa20" d="M0 0h119v45H62v45H0zM62 120h57v45H62z"/>
+  <text x="205" y="93" fill="#0d68a7" font-family="Arial, sans-serif" font-size="56" font-weight="700">Hutech</text>
+  <text x="207" y="139" fill="#0d68a7" font-family="Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="11">Solutions</text>
+  <text x="0" y="196" fill="#3e3e3e" font-family="Arial, sans-serif" font-size="19" font-weight="600">Connecting People and Technology</text>
+</svg>
